@@ -1,0 +1,4 @@
+notes/
+.Rhistory
+.RData
+results/*_log.txt

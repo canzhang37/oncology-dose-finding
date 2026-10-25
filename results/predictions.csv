@@ -1,0 +1,10 @@
+id,check,value,met
+P1,"BOIN - 3+3, S1-S8 correct selection (>= 10)",17.346875,TRUE
+P1,"CRM - 3+3, S1-S8 correct selection (>= 10)",19.209375,TRUE
+P2,"|BOIN - CRM|, S1-S8 (< 5)",1.8625,TRUE
+P2,"|BOIN - CRM|, random (< 5)",1.51300000000001,TRUE
+P3,"3+3 - BOIN, % patients at overdoses S1-S8 (< 0)",0.617445323773442,FALSE
+P3,"3+3 - CRM, % patients at overdoses S1-S8 (< 0)",-3.54848608856422,TRUE
+P3,"3+3 under-dosing, S2-S6 (>= 30)",54.045,TRUE
+P4,"3+3 minus best other, random correct selection (< 0)",-28.3045,TRUE
+P5,"smallest n per arm, pH 0.40, delta 0.10 (30-50)",33,TRUE
